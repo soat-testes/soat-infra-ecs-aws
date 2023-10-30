@@ -1,4 +1,4 @@
-name: Terraform VPC
+name: Terraform ECS
 
 on: 
   push:
