@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  create-infra:
+  destroy-infra:
     runs-on: ubuntu-latest
     permissions:
       id-token: write
